@@ -1,7 +1,7 @@
-export const page = () => {
+export const Page = () => {
   return (
     <div>Invoices Page</div>
   )
 }
 
-export default page
+export default Page
